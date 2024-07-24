@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/2134d54a-5a9d-4997-91ea-e0ba5a8a546f)![image](https://github.com/user-attachments/assets/86454124-e6c2-4558-875b-7341d523a61d)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
