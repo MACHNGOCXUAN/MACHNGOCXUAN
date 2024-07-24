@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/2134d54a-5a9d-4997-91ea-e0ba5a8a546f)![image](https://github.com/user-attachments/assets/86454124-e6c2-4558-875b-7341d523a61d)
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -48,8 +48,8 @@
   <a href="https://instagram.com/https://www.instagram.com/xuanmachngoc" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="machngocxuan-instagram" />
   </a>
-  <a href="https://tiktok.com/@https://www.tiktok.com/@mnx190904" target="top">
-    <img src="https://icons8.com/icon/cH72GwaE0Msa/tiktok.png" alt="machngocxuan-tiktok" />
+  <a href="https://www.tiktok.com/@mnx190904" target="top">
+    <img src="https://img.icons8.com/?size=100&id=cH72GwaE0Msa&format=png&color=000000" alt="machngocxuan-tiktok" />
   </a>
   <a href="mailto:machngocxuan2004@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="machngocxuan-email" />
