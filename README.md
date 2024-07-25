@@ -63,7 +63,7 @@
 
 <a href="https://github.com/MACHNGOCXUAN/Frontend-MERN/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=Frontend-MERN&theme=blue" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=Frontend-MERN&theme=gruvbox" />
 </a> 
 <a href="https://github.com/MACHNGOCXUAN/HTML_CSS_JS/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
