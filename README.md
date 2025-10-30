@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="./Image/IT.png" width="1200" alt="trungquandev-official" />
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T182601Z&X-Amz-Expires=300&X-Amz-Signature=c719d44b6c33881e64d1712902d826b0eb033c0c54b48a88263fceed06ee3b6f&X-Amz-SignedHeaders=host" width="1200" alt="Mạch Ngọc Xuân Fullstack" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
