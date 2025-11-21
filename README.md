@@ -22,12 +22,7 @@ và rèn luyện kỹ năng thực tế để sẵn sàng cho môi trường là
 ## 📑 Github Stats of me!
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MACHNGOCXUAN&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" height="180" />
   <img src="https://streak-stats.demolab.com?user=MACHNGOCXUAN&theme=tokyonight&hide_border=true" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACHNGOCXUAN&theme=tokyonight&hide_border=true&layout=compact" height="180" />
   <img src="https://github-contributor-stats.vercel.app/api?username=MACHNGOCXUAN&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
