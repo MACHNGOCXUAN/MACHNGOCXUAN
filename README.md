@@ -1,43 +1,43 @@
-<a href="#" target="_blank">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251030%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251030T182601Z&X-Amz-Expires=300&X-Amz-Signature=c719d44b6c33881e64d1712902d826b0eb033c0c54b48a88263fceed06ee3b6f&X-Amz-SignedHeaders=host" width="1200" alt="Mạch Ngọc Xuân Fullstack" />
-</a>
+###  <h1> Hi, I'm Mạch Ngọc Xuân 👨🏼‍🏫, Fullstack Developer 🔥</h1>
+![](./Image/IT.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E9EF7&width=500&lines=Hi+there!+I'm+Mach+Ngoc+Xuan+%F0%9F%91%8B;Full+Stack+Developer;JavaScript+%7C+Node.js+%7C+TypeScript;Building+amazing+web+applications)](https://git.io/typing-svg)
+
+## 👋 Xin chào, mình là **Mạch Ngọc Xuân**
+🎓 Sinh viên năm cuối ngành **Kỹ thuật Phần mềm**  
+🏫 Trường **Đại học Công nghiệp TP.HCM (IUH)**  
+🚀 Chuẩn bị tốt nghiệp & định hướng trở thành **Fullstack Developer**
+
+Mình đam mê lập trình, đặc biệt trong lĩnh vực **Web Development** và **Mobile Development**.  
+Ngoài giờ học, mình tích cực xây dựng các dự án cá nhân, học thêm công nghệ mới  
+và rèn luyện kỹ năng thực tế để sẵn sàng cho môi trường làm việc chuyên nghiệp.
+
+### ✨ Một chút về mình:
+- 🔥 Yêu thích JavaScript, Node.js, React, React Native
+- 📚 Luôn thích tự học và tìm hiểu công nghệ mới
+- 🎯 Mục tiêu: Trở thành Fullstack Developer chuyên nghiệp
+- 😍 Sở thích: lập trình, đọc sách, nấu ăn
+- 💌 Liên hệ: **machngocxuan2004@gmail.com**
+
+## 📑 Github Stats of me!
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MACHNGOCXUAN&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=MACHNGOCXUAN&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACHNGOCXUAN&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=MACHNGOCXUAN&theme=tokyonight&hide_border=true" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MACHNGOCXUAN&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph" width="100%" />
+</div>
+</br>
+
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
-<!-- https://simpleicons.org/ -->
-<!-- <span><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C logo" title="C" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ logo" title="C++" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python logo" title="Python" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap logo" title="Bootstrap" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery logo" title="jQuery" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React logo" title="React" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React logo" title="React" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS logo" title="NodeJS" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB logo" title="MongoDB" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer logo" title="MicrosoftSQLServer" height="25" /></span>
-<span><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL logo" title="MySQL" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
-&nbsp;
-<span><img src="https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3" alt="ESLint logo" title="ESLint" height="25" /></span>
-&nbsp; -->
-
 <br>
 
 <table>
@@ -181,25 +181,26 @@
   </a>
 </div>
 
-# 📊GitHub Stats :
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MACHNGOCXUAN&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<div align="center">
 
-<a href="https://github.com/MACHNGOCXUAN/Frontend-MERN/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=Frontend-MERN&theme=gruvbox" />
-</a> 
+## 📊 GitHub Statistics
 
+<img src="https://github-readme-stats.vercel.app/api?username=MACHNGOCXUAN&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=percentile" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACHNGOCXUAN&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180" />
+
+## 🚀 Pinned Repositories
+
+<a href="https://github.com/MACHNGOCXUAN/Frontend-MERN">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=Frontend-MERN&theme=tokyonight&hide_border=true" width="49%" />
+</a>
 <a href="https://github.com/MACHNGOCXUAN/PetShop">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=PetShop&theme=gruvbox" />
-</a> 
-
-<a href="https://github.com/MACHNGOCXUAN/chat-app-server/">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=chat-app-server&theme=gruvbox" />
-</a> 
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=PetShop&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+<a href="https://github.com/MACHNGOCXUAN/chat-app-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=chat-app-server&theme=tokyonight&hide_border=true" width="49%" />
+</a>
 <a href="https://github.com/MACHNGOCXUAN/chat-app-client">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=chat-app-client&theme=gruvbox" />
-</a> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MACHNGOCXUAN&repo=chat-app-client&theme=tokyonight&hide_border=true" width="49%" />
+</a>
+
+</div>
